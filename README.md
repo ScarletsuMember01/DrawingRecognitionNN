@@ -26,3 +26,6 @@ More epoch or hidden size will make it more accurate when given more drawing, bu
 # Save your model
 
 You can save your model for later ! (useful when your training takes hours)
+
+
+![DrawingRec(1)](https://github.com/ScarletsuMember01/DrawingRecognitionNN/assets/43983653/6d86ff75-4b10-4374-81e3-ba2ba31cf783)
