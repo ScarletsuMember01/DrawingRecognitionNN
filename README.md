@@ -22,3 +22,7 @@ When the training is done, you can check the result!
 
 (*) It's possible that it doesn't work if you give too much different drawing. In that case, try to play with the "epoch" or "hidden size" variable.
 More epoch or hidden size will make it more accurate when given more drawing, but training time will also be much longer
+
+# Save your model
+
+You can save your model for later ! (useful when your training takes hours)
